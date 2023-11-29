@@ -1,0 +1,4 @@
+petallength,petalwidth,class
+1.4,0.3,Iris-setosa
+3.5,1.0,Iris-versicolor
+6.3,1.8,Iris-virginica
